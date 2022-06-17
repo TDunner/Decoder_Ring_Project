@@ -31,7 +31,7 @@ const substitutionModule = (function () {
         }
      return transformedMessage;
     } 
-  return {
+  return{
     substitution,
   };
 })();
